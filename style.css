@@ -14,7 +14,7 @@
     display: inline-block;
 }
 
-@media (max-width:330px){
+@media (max-width:420px){
     .card{
         width: 100%;
         background-color: powderblue;
